@@ -6,6 +6,20 @@ Sometimes you may just want to perform a quick job search without doing multiple
 
 (Ofcourse you can have your credentials saved with bookmarked pages or use the LinkedIn app, but I personally do not prefer saving my credentials anywhere)
 
+## Prerequisites
+
+1. Installing Python 3.7.3
+    -> https://www.python.org/downloads/
+
+2. Installing selenium package and interfacing with required Web Driver modules ( Project uses Chrome as the browser)
+    
+      ``` 
+      pip install selenium 
+      
+      ```
+   For more information -> https://selenium-python.readthedocs.io/
+   
+
 ## How It Works 
 On running GUI.pyw, the user is prompted with a GUI that takes in login credentials, job keywords and location as input. 
 
@@ -20,18 +34,6 @@ Once the user submits the form, the bot does the rest of the work by submitting 
 <img src="https://github.com/haneef-khan/linkedin-job-search-automation/blob/master/screenshots/ezgif.com-crop-1.gif">
 </p>
 
-## Prerequisites
-
-1. Installing Python 3.7.3
-    -> https://www.python.org/downloads/
-
-2. Installing selenium package and interfacing with required Web Driver modules ( Project uses Chrome as the browser)
-    
-      ``` 
-      pip install selenium 
-      
-      ```
-   For more information -> https://selenium-python.readthedocs.io/
    
 ### Acknowledgements
 
