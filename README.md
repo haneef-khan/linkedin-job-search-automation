@@ -4,7 +4,7 @@ Automation of LinkedIn's sign in and job search process using Python.
 ## Motivation
 Sometimes you may just want to perform a quick job search without doing multiple clicks across pages and waiting for the browser to load each time or you may be multitasking. This project addresses that 'adversity' by automating the entire process with just a few fields to be filled by the user. 
 
-(Ofcourse you can have your credentials saved with bookmarked pages or use the LinkedIn app, but I personally do not prefer saving my credentials anywhere)
+(Of course, you can have your credentials saved with bookmarked pages or use the LinkedIn app, but I personally do not prefer saving my credentials anywhere)
 
 ## Prerequisites
 
